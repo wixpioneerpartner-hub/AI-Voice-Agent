@@ -1,0 +1,7 @@
+{
+  "name": "Pelumi AI - Premium Real Estate Agent",
+  "description": "A high-performance virtual real estate agent using Gemini Live API for real-time voice consultations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
